@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Eduhacksv2",
+    "slug": "Eduhacksv2",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Eduhacksv2"
+}
